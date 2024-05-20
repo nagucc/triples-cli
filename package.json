@@ -1,0 +1,16 @@
+{
+  "name": "nagu-triples-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@inquirer/prompts": "^5.0.2",
+    "axios": "^1.6.8"
+  }
+}
